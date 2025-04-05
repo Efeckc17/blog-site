@@ -1,6 +1,6 @@
 # 📰 Blog-Site
 
-![License](https://img.shields.io/github/license/Efeckc17/blog-site?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Efeckc17/blog-site?style=flat-square)
 ![Language](https://img.shields.io/github/languages/top/Efeckc17/blog-site?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Efeckc17/blog-site?style=flat-square)
 
