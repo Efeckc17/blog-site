@@ -18,7 +18,7 @@ const Register = () => {
     }
   }
   return (
-    <div className="max-w-md mx-auto bg-white p-6 rounded shadow">
+    <div className="max-w-md mx-auto bg-black p-6 rounded shadow">
       <h1 className="text-2xl font-bold mb-4">Register</h1>
       {error && <div className="text-red-500 mb-2">{error}</div>}
       <form onSubmit={handleSubmit}>
